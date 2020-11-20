@@ -1,0 +1,58 @@
+[
+  {
+    "id": "0",
+    "name": "Jimi Hendrix Trivia",
+    "description": "",
+    "image": "./images/JimiTrivia.jpg",
+    "gitUrl": "https://github.com/Brettporter1/TriviaGame",
+    "deployedUrl": "https://brettporter1.github.io/TriviaGame/"
+  },
+  {
+    "id": "1",
+    "name": "Friend Finder",
+    "description": "",
+    "image": "./images/Friend-Finder.png",
+    "gitUrl": "https://github.com/Brettporter1/Friend-Finder",
+    "deployedUrl": "https://kubootcamp-friend-finder.herokuapp.com/"
+  },
+  {
+    "id": "2",
+    "name": "Celebrity Jail Brawl",
+    "description": "",
+    "image": "./images/jailBrawl.jpg",
+    "gitUrl": "https://github.com/Brettporter1/unit-4-game",
+    "deployedUrl": "https://brettporter1.github.io/unit-4-game/"
+  },
+  {
+    "id": "3",
+    "name": "Muther Truckers",
+    "description": "",
+    "image": "./images/mother-truckers.png",
+    "gitUrl": "",
+    "deployedUrl": ""
+  },
+  {
+    "id": "4",
+    "name": "Bamazon",
+    "description": "Node CLI Application",
+    "image": "./images/Bamazon.png",
+    "gitUrl": "",
+    "deployedUrl": ""
+  },
+  {
+    "id": "5",
+    "name": "DUI",
+    "description": "",
+    "image": "./images/DUI-project-2.png",
+    "gitUrl": "",
+    "deployedUrl": ""
+  },
+  {
+    "id": "6",
+    "name": "PODCHAT",
+    "description": "MERN application allowing users to listen to their favorite podcasts and comment",
+    "image": "./images/podchat.png",
+    "gitUrl": "",
+    "deployedUrl": "podchat.app"
+  }
+]

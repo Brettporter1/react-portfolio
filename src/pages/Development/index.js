@@ -1,10 +1,19 @@
-import React from 'react';
+import React, { Fragment, useState } from 'react';
+import Header from '../../components/Header';
+import DevData from '../../displayData/devData.json';
+import WebCard from '../../components/WebCard';
 
 function Development() {
+  const [cardState, setCardState] = useState('');
   return (
-    <div>
-      <h1>Something Here</h1>
-    </div>
+    <Fragment>
+      <Header />
+      <div className='dev-card-container'>
+        {DevData.map(item => {
+          return <WebCard key={item.id} item={item} />;
+        })}
+      </div>
+    </Fragment>
   );
 }
 
